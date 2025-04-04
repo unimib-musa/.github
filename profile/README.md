@@ -1,6 +1,7 @@
 Welcome to the MUSA Project's GitHub page.
 
-> Supervisors: [Daniela Micucci](mailto:daniela.micucci@unimib.it), [Alberto Leporati](mailto:alberto.leporati@unimib.it), [Jacopo Maltagliati](mailto:jacopo.maltagliati@unimib.it)
+> Supervisors: [Daniela Micucci](mailto:daniela.micucci@unimib.it), [Alberto Leporati](mailto:alberto.leporati@unimib.it)
+> Research Fellows: [Jacopo Maltagliati](mailto:jacopo.maltagliati@unimib.it)
 
 Currently, we're working on the following projects:
 
