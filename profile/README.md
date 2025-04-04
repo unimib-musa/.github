@@ -21,9 +21,17 @@ Active projects:
 
 |||
 |---------|------------------|
-|Team Members |[Jacopo Maltagliati](https://github.com/jack23247), [Claudio Marenghi ](https://github.com/marenghiclaudio) |
+|Team Lead |[Jacopo Maltagliati](https://github.com/jack23247) |
+|Team Members | [Alessandro Pedretti](https://github.com/Alepedro24) [Simone Renna](https://github.com/RennaSimone) [Stefano Riva](https://github.com/Ste1603) |
+|Retired Members | [Claudio Marenghi ](https://github.com/marenghiclaudio) |
 
 Active projects:
   - Web Application
     - [BE+FE](https://github.com/unimib-musa/indoor)
     - [Preprocessing](https://github.com/unimib-musa/indoor-preprocessing)
+  - Totem Application  (Stefano)
+    - BE+FE
+  - Mobile Application (Alessandro)
+    - [FE](https://github.com/unimib-musa/mobile-app)
+  - Map Conversion (Simone)
+    - [Pipeline](https://github.com/unimib-musa/map-conversion-pipeline)
